@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm [Your Name]! 👋
 
-<!--
-**khammadi/khammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![42 Badge](https://badge.mediaplus.ma/binary/khammadi)](https://github.com/oakoudad/badge42)
 
-Here are some ideas to get you started:
+I'm a student at 42 School, passionate about coding and solving problems. Check out my 42 stats above!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- 🌱 I’m currently learning **C, Python, and algorithms**.
+- 💻 I love working on **open-source projects**.
+- 🚀 My goal is to become a **software engineer**.
+
+---
+
+### Projects
+- [Libft](https://github.com/khammadi/libft): My first 42 project.
+- [Get Next Line](https://github.com/khammadi/get_next_line): Reading lines from a file descriptor.
+
+---
+
+### Connect with Me
+- [42 Intra](https://profile.intra.42.fr/users/khammadi)
+- [GitHub](https://github.com/khammadi)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
