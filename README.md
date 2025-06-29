@@ -32,9 +32,7 @@
 ---
 
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khammadi&theme=react-dark)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-detailsusername=khammadi&theme=github_dark)
 ---
 
 ## 🏆 Achievements
