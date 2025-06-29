@@ -29,8 +29,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khammadi&theme=react-dark)
-[Check out my GitHub contributions](https://github.com/khammadi)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khammadi&theme=react-dark)
 ---
 
 ## 🏆 Achievements
