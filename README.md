@@ -1,7 +1,7 @@
 # 👩‍💻 A Passionate Computer Science Student
 
-🎓 Software Engineering Student at 1337 Coding School<br>
-🎓 Pursuing a Bachelor's degree in Mathematics and Computer Science (MIP) at FPK, Sultan Moulay Slimane University<br>
+🎓 Software Engineering Student at 1337 Coding School
+🎓 Pursuing a Bachelor's degree in Mathematics and Computer Science (MIP) at FPK, Sultan Moulay Slimane University
 👨‍💻 Exploring new technologies & building cool projects
 ---
 
@@ -18,6 +18,8 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-007ACC?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-007ACC?style=for-the-badge)
 ---
 
 ## 📊 GitHub Stats
