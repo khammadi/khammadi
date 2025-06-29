@@ -29,7 +29,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadijaHammadi&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khammadi&theme=react-dark)
 ---
 
 ## 🏆 Achievements
