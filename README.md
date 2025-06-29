@@ -31,8 +31,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
 
-
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-detailsusername=khammadi&theme=github_dark)
+
 ---
 
 ## 🏆 Achievements
