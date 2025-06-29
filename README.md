@@ -34,7 +34,12 @@
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khammadi&theme=github_dark)
 
 ---
+## 📈 GitHub Stats
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=khammadi&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khammadi&layout=compact&theme=github_dark)
+
+---
 ## 🏆 Achievements
 🎯 I learned and worked with programming languages like C, C++, Python, and JavaScript.<br/>
 🚀 I try to learn new things every day in programming and modern technologies.<br/>
