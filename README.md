@@ -33,8 +33,8 @@
 ---
 
 ## 🏆 Achievements
-🎯 I learned and worked with programming languages like C, C++, Python, and JavaScript.
-🚀 I try to learn new things every day in programming and modern technologies.
+🎯 I learned and worked with programming languages like C, C++, Python, and JavaScript.<br/>
+🚀 I try to learn new things every day in programming and modern technologies.<br/>
 💼 I participated in an important team project where I learned how to work with others and contribute effectively.
 
 ---
