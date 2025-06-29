@@ -31,7 +31,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khammadi&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khammadi&theme=react-dark)
