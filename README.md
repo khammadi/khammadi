@@ -1,9 +1,8 @@
 # 👩‍💻 A Passionate Computer Science Student
 
-🎓 Software Engineering Student at 1337 Coding School
-🎓 Pursuing a Bachelor's degree in Mathematics and Computer Science (MIP) at FPK, Sultan Moulay Slimane University
-👨‍💻 Exploring new technologies & building cool projects  
-
+🎓 Software Engineering Student at 1337 Coding School<br>
+🎓 Pursuing a Bachelor's degree in Mathematics and Computer Science (MIP) at FPK, Sultan Moulay Slimane University<br>
+👨‍💻 Exploring new technologies & building cool projects
 ---
 
 ## 🛠️ Languages and Tools
