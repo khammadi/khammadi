@@ -31,7 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-detailsusername=khammadi&theme=github_dark)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khammadi&theme=github_dark)
 
 ---
 
