@@ -42,6 +42,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khammadi&layout=compact&theme=github_dark)
 
 ---
+![GitHub Contribution Snake Green](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?snake=%2300ff00&background=%23000000&stroke=%2300ff00)
+
 ## 🏆 Achievements
 🎯 I learned and worked with programming languages like C, C++, Python, and JavaScript.<br/>
 🚀 I try to learn new things every day in programming and modern technologies.<br/>
