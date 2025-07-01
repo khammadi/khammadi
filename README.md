@@ -49,7 +49,7 @@
 
 ---
 
-<h2 style="color:#ff66cc;">🤝 Connect with me</h2>
+## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khadija-hammadi-789459358)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijahammadi.13@gmail.com)
 [![CodinGame](https://img.shields.io/badge/CodinGame-FF6D00?style=for-the-badge&logo=codin3game&logoColor=white)](https://www.codingame.com/profile/ced31c6d450a84d9c6b1d0f91279169c7288185)
