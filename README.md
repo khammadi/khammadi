@@ -3,6 +3,7 @@
 ## 👩‍🎓 About Me
 
 - 🎓 Software Engineering Student at **1337 Coding School**
+- [![khammadi's 42 stats](https://badge.mediaplus.ma/binary/khammadi)](https://github.com/oakoudad/badge42)
 - 📚 Pursuing a Bachelor’s degree in **Mathematics and Computer Science (MIP)** at **FPK – Sultan Moulay Slimane University**
 - 🛠️ I love **solving problems**, learning new **tech stacks**, and building **real-world applications**
 - 💡 Interests: Open Source · Web Development · Backend · APIs · DevOps
