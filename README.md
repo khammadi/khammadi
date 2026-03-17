@@ -3,7 +3,7 @@
 ## 👩‍🎓 About Me
 
 - 🎓 Software Engineering Student at **1337 Coding School**
-- 📚 Pursuing a Bachelor’s degree in **Mathematics and Computer Science (MIP)** at **FPK – Sultan Moulay Slimane University**
+- 📚 Pursuing a Bachelor’s degree in **SYSTEM INFORMATION & AI** at **FPK – Sultan Moulay Slimane University**
 - 🛠️ I love **solving problems**, learning new **tech stacks**, and building **real-world applications**
 - 💡 Interests: Open Source · Web Development · Backend · APIs · DevOps
 ---
