@@ -34,18 +34,13 @@
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white)
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khammadi&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khammadi&layout=compact&theme=github_dark)
 
 ---
-![GitHub Contribution Snake Green](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?snake=%2300ff00&background=%23000000&stroke=%2300ff00)
-
-
-
----
-## 🤝 Connect with me
+##  Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khadija-hammadi-789459358)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijahammadi.13@gmail.com)  
