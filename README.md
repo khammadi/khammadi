@@ -1,14 +1,14 @@
-# 👩‍💻 A Passionate Computer Science Student
+#  A Passionate Computer Science Student
 
-## 👩‍🎓 About Me
+##  About Me
 
-- 🎓 Software Engineering Student at **1337 Coding School**
-- 📚 Pursuing a Bachelor’s degree in **SYSTEM INFORMATION & AI** at **FPK – Sultan Moulay Slimane University**
-- 🛠️ I love **solving problems**, learning new **tech stacks**, and building **real-world applications**
-- 💡 Interests: Open Source · Web Development · Backend · APIs · DevOps
+-  Software Engineering Student at **1337 Coding School**
+-  Pursuing a Bachelor’s degree in **SYSTEM INFORMATION & AI** at **FPK – Sultan Moulay Slimane University**
+-  I love **solving problems**, learning new **tech stacks**, and building **real-world applications**
+-  Interests: Open Source · Web Development · Backend · APIs · DevOps
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,10 +42,7 @@
 ---
 ![GitHub Contribution Snake Green](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?snake=%2300ff00&background=%23000000&stroke=%2300ff00)
 
-## 🏆 Achievements
-🎯 I learned and worked with programming languages like C, C++, Python, and JavaScript.<br/>
-🚀 I try to learn new things every day in programming and modern technologies.<br/>
-💼 I participated in an important team project where I learned how to work with others and contribute effectively.
+
 
 ---
 ## 🤝 Connect with me
