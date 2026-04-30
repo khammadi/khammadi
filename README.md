@@ -1,5 +1,7 @@
 #  A Passionate Computer Science Student
 
+[![khammadi's 42 stats](https://badge.mediaplus.ma/greenbinary/khammadi)](https://github.com/oakoudad/badge42)
+
 ##  About Me
 
 -  Software Engineering Student at **1337 Coding School**
