@@ -61,36 +61,9 @@
   <img src="https://img.shields.io/badge/Assembly-FFD1DC?style=for-the-badge" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khammadi&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=FFB6C1&text_color=FFD1DC" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khammadi&theme=radical&hide_border=true&background=00000000&ring=FF69B4&fire=FFB6C1&currStreakLabel=FFD1DC" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khammadi&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=FFD1DC" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khammadi&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-> ℹ️ To activate the snake animation on your own profile, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your `khammadi/khammadi` repo — it regenerates this SVG daily from your real contribution graph.
 
 ---
 
