@@ -11,7 +11,6 @@
 <a href="https://github.com/khammadi">
   <img alt="42 stats" src="https://badge.mediaplus.ma/pink/khammadi" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=khammadi&style=for-the-badge&color=pink&label=Profile+Views" />
 
 </div>
 
